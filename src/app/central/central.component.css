@@ -11,17 +11,22 @@
     text-align: center;
     margin-top: 15%;
     font-size: 9em;
-    background-color:#97eee8c2;
+    background-color: #f8f9faa1;
     font-family: 'Commissioner', sans-serif;
 
     font-family: 'Roboto Mono', monospace;
 }
 
-#textIntro{
-    background-color:#97eee8c2;
-    margin: 5% 0 5% 0;
-    padding: 2%; 
-
+.col-6{
+    margin-top: 5%;
 }
+
+svg{
+    margin-left:40%;
+    width: 6em;
+    height: 6em;
+}
+
+
 
 @import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@700&family=Roboto+Mono:wght@600&display=swap');
