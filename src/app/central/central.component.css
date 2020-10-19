@@ -1,0 +1,27 @@
+#intro{
+    background-image: url('../../assets/images/Apps-y-juegos-para-aprender-a-programar.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    height: 600px;
+    overflow: hidden;
+    box-shadow: 2px 2px 20px;
+}
+#expl{
+    text-align: center;
+    margin-top: 15%;
+    font-size: 9em;
+    background-color:#97eee8c2;
+    font-family: 'Commissioner', sans-serif;
+
+    font-family: 'Roboto Mono', monospace;
+}
+
+#textIntro{
+    background-color:#97eee8c2;
+    margin: 5% 0 5% 0;
+    padding: 2%; 
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@700&family=Roboto+Mono:wght@600&display=swap');

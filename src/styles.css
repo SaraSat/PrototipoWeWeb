@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    background-color:#00a79cda;
+    font-family: 'Commissioner', sans-serif;
+
+    font-family: 'Roboto Mono', monospace;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@700&family=Roboto+Mono:wght@300;600&display=swap');

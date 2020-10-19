@@ -1,0 +1,40 @@
+
+img{
+    width: 200px;
+    margin-left: 100px;
+}
+.card{
+    width: 400px;
+    background-color: #ecf0f1;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    box-shadow: 2px 2px 20px;
+}
+
+#titulo{
+    background-image: url('../../assets/images/iStock-545675310-1100x677.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    height: 600px;
+    overflow: hidden;
+    box-shadow: 2px 2px 20px;
+    margin-bottom: 5%;
+
+}
+
+#titulo  h1{
+    padding-top: 2%;
+    padding-left: 2%;
+    margin-top: 2%;
+    font-size: 5em;
+    font-weight: 500;
+    background-color:#97eee8c2;
+
+}
+
+#textAbaout{
+    text-align: justify;
+    margin-bottom: 5%;
+    font-size: 1.1em;
+}
