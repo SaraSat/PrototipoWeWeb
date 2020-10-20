@@ -12,15 +12,17 @@ img{
 }
 
 #titulo{
-    background-image: url('../../assets/images/iStock-545675310-1100x677.jpg');
+    background-image: url('../../assets/images/host.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    display: block;
-    height:580px;
+    display: block; 
     overflow: hidden;
+    height:520px;
+    width: 87%;
     box-shadow: 2px 2px 20px;
     margin-bottom: 5%;
-
+    margin-left: 6%;
+    margin-top: 13%;
 }
 
 #titulo  h1{
@@ -29,7 +31,8 @@ img{
     margin-top: 2%;
     font-size: 5em;
     font-weight: 500;
-    background-color: #f8f9faa1;
+    text-align: center;
+    background-color: #f8f9fad3;
 
 }
 
@@ -39,4 +42,15 @@ img{
     padding: 3%;
     font-size: 1.1em;
 
+}
+
+.jumbotron{
+    background-color: rgb(203, 236, 247);
+    border-radius: 20px;
+
+}
+
+#provisional{
+    font-size: 5em;
+    
 }

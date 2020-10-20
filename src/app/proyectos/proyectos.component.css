@@ -1,0 +1,19 @@
+#titulo{
+    background-image: url('../../assets/images/cloud-3406627_1280-1024x682.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block; 
+    overflow: hidden;
+    height:580px;
+    width: 87%;
+    box-shadow: 2px 2px 20px;
+    margin-bottom: 5%;
+    margin-left: 6%;
+    margin-top: 10%;
+
+}
+
+h1{
+    margin-top: 2%;
+    font-size: 5em;
+}

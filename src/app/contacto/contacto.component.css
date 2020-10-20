@@ -1,0 +1,20 @@
+
+.col{
+
+    background-color: rgb(203, 236, 247);
+    margin-right: 1%;
+    padding: 5%;
+    border-radius: 20px;
+}
+
+svg{
+    width: 6em;
+    height: 6em;
+    margin-bottom: 2%;
+    margin-left: 25%;
+}
+
+h1{
+    margin-top: 10%;
+    font-size: 4em;
+}

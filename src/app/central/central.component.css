@@ -27,6 +27,12 @@ svg{
     height: 6em;
 }
 
+.jumbotron{
+    background-color: rgb(203, 236, 247);
+    border-radius: 20px;
+
+}
+
 
 
 @import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@700&family=Roboto+Mono:wght@600&display=swap');
