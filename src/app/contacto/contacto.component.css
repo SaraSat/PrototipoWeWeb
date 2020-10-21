@@ -14,7 +14,17 @@ svg{
     margin-left: 25%;
 }
 
-h1{
-    margin-top: 10%;
-    font-size: 4em;
+#titulo{
+    background-color: #00a79d;
+    height: 300px;
+    
+
+}
+
+ #titulo h1{
+    font-size: 5em;
+    padding-top: 10%;
+    padding-left: 5%;
+    color: ivory;
+
 }

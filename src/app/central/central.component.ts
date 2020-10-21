@@ -8,7 +8,7 @@ import { ActivatedRoute } from '@angular/router';
 })
 export class CentralComponent implements OnInit {
 
-  titulo: string = "WebWe"
+  titulo: string = "SkyWeb"
 
   constructor() { }
 
