@@ -33,8 +33,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ![Imagen_inicio2](https://github.com/SaraSat/PrototipoWeWeb/blob/main/src/assets/images/inicio2.PNG)
 
-[Código_inicio](https://github.com/SaraSat/PrototipoWeWeb/tree/main/src/app/central)
-[Código_header](https://github.com/SaraSat/PrototipoWeWeb/tree/main/src/app/header)
+[Código_inicio](https://github.com/SaraSat/PrototipoWeWeb/tree/main/src/app/central) <br>
+[Código_header](https://github.com/SaraSat/PrototipoWeWeb/tree/main/src/app/header) <br>
 [Código_footer](https://github.com/SaraSat/PrototipoWeWeb/tree/main/src/app/footer)
 
 ## Sobre nosotros: 
